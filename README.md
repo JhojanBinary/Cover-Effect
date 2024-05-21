@@ -1,9 +1,13 @@
 
-
-background-image: url(../IMG/escala.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+EFECTO background-attachment: fixed""
+-
+-
+-
+-
+-background-image: url(../IMG/escala.jpg);
+-background-repeat: no-repeat;
+-background-attachment: fixed;
+-background-size: cover;
 #lo que necesita tu imagen para ser atractiva!
 
 ![image](https://github.com/JhojanBinary/Cover-Effect/assets/102551448/8a08845c-3c3e-4181-b7a5-b72327c46916)
